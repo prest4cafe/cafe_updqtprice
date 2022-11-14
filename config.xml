@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cafe_updqtprice</name>
+	<displayName><![CDATA[cafe_updqtprice]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Update price on quantity change]]></description>
+	<author><![CDATA[presta.cafe]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
